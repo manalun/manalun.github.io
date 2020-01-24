@@ -1,44 +1,29 @@
 ---
 layout: project
 type: project
-image: images/SummerFun.jpg
+image: images/summer-fun-pic.jpg
 title: Summer Fun Leader
 permalink: projects/SummerFunLeader
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Recreation
+  - Teamwork
+  - Leadership
+summary: My coworkers and I had to supervise and entertain children aged 5-11 for a summer recreational program.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/summer-fun-activities.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The Summer Fun program is a recreational program for children aged 5-11 where they will have various activities to do while in the program such as sports, arts and crafts, music and dance, and more. The Summer Fun program at my local recreation center consisted of 7 groups and I had responsibility over the oldest aged group: group 7.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+During the course of the summer program, my role was to be the leader for group 7 and to supervise them. As a leader, I was responsible for making sure that the City and County's goal of *adding quality to life* was being met. That means that I was required to make sure that the children in my group were not bored and were having fun every day of the program. I was mostly responsible only for my group of kids, but because the whole summer program is just broken into smaller groups, we are essentially still responsible for other kids in the program that might not be in our group. Making sure that I come up with activities to do on days we don't have excursions/activities was important. I also had to make sure the kids were not fighting or bullying each other, and that they were safe.
 
-Here is some code that illustrates how we read values from the line sensors:
+I learned a lot from this experience working as a leader because I think one of my biggest strengths is being able to follow directions from a leader, and being the leader for a change was difficult to get used to. I used to volunteer as a junior leader, assisting leaders in their work, so I never had a lot of responsibilities. Now that I had to work as a leader and make sure that the kids were having fun, it taught me a lot about thinking outside the box when I am on the spot; such as figuring out what the kids would like to play on free-time when I didn't prepare beforehand. When I was stuck on thinking about activities to do, I was able to ask my coworkers for help and they would give me hints or suggestions and I would be able to come up with something based off of their answers. What I learned was that I really enjoyed working with the kids but I also learned how valuable it is to prepare for something when it is required. Having to come up with an activity that we have not done before, on the spot, was really difficult, and having an agenda really helped on the days I needed it.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more about the Summer Fun program at the [Department of Parks and Recreation Website](http://www.honolulu.gov/parks/program/summer-fun-program.html).
 
 
 
