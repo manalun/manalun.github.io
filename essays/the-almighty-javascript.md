@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The almighty Javascript
+title: The Almighty Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
