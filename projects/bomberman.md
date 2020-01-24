@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bomberman-startscreen.jpg
+image: images/bomberman-startscreen.png
 title: Bomberman minigame
 permalink: projects/bomberman-minigame
 # All dates must be YYYY-MM-DD format!
