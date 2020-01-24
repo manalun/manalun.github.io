@@ -72,69 +72,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Outback Steakhouse",
+      "position": "Take-away Server",
+      "website": "https://www.outback.com/locations/hi/hawaii-kai",
+      "startDate": "2018-02-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Serve take-away orders for Outback Steakhouse.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Multitask with taking orders, packing food and getting payment",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kozo Sushi",
+      "position": "Sushi maker",
+      "website": "",
+      "startDate": "2016-03-01",
+      "endDate": "2017-12-20",
+      "summary": "Make sushi for customers and operate the cash register.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+        "Making sushi",
+        "Maintain a clean working environment"      ]
+    },
+    {
+      "company": "City and County of Honolulu",
+      "position": "Summer Student Aide 2",
+      "website": "http://www.honolulu.gov/parks/program/summer-fun-program.html",
+      "startDate": "2019-05-30",
+      "endDate": "2019-08-03",
+      "summary": "Supervise and entertain 20+ kids for 6 hours.",
+      "highlights": [
+        "Figuring out activities that the kids would have fun with",
+        "Working with coworkers to make the kids' summer awesome"      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "City and County of Honolulu",
+      "website": "http://www.honolulu.gov/parks/program/summer-fun-program.html",
+      "position": "Junior Leader",
+      "startDate": "2016-06-01",
+      "endDate": "2018-07-25",
+      "summary": "Assist the Leaders supervise and entertain the group kids.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Learn to complete tasks efficiently when assigned",
+        "Cooperate with other junior leaders to help ease the work load for the leader"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2018-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "This scholarship is for first-time, degree-seeking students who enroll the semester after high school graduation. The student must be enrolled in a full-time course load of UH Mānoa credits."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Academic Excellence in Math",
+      "date": "2013",
+      "awarder": "Niu Valley Middle School",
+      "summary": "Award given from nomination by a teacher for showing excellence in the subject of math."
     }
   ],
   "references": [
