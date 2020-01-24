@@ -5,7 +5,7 @@ image: images/SummerFun.jpg
 title: Summer Fun Leader
 permalink: projects/SummerFunLeader
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-01-23
 labels:
   - Robotics
   - Arduino
