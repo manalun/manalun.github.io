@@ -15,6 +15,7 @@ summary: My coworkers and I had to supervise and entertain children aged 5-11 fo
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/summer-fun-activities.jpg">
+  <img class="ui image" src="../images/summer-fun-schedule.jpg">
 </div>
 
 The Summer Fun program is a recreational program for children aged 5-11 where they will have various activities to do while in the program such as sports, arts and crafts, music and dance, and more. The Summer Fun program at my local recreation center consisted of 7 groups and I had responsibility over the oldest aged group: group 7.
