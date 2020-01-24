@@ -10,6 +10,7 @@ labels:
   - ICS 111
   - Teamwork
   - Animation
+  - Java
   - Minigame
 summary: An ICS 111 Final project made in collaboration with my partner, Jake Imanaka. 
 ---
