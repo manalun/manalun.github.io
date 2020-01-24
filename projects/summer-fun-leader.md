@@ -13,7 +13,7 @@ labels:
 summary: My coworkers and I had to supervise and entertain children aged 5-11 for a summer recreational program.
 ---
 
-<img class="ui centered medium image" src="/images/summer-fun-activities.jpg">
+<img class="ui small left floated image" src="/images/summer-fun-activities.jpg">
 
 <img class="ui medium right floated rounded image" src="../images/summer-fun-schedule.jpg">
 
