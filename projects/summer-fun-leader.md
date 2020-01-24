@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/summer-fun-pic.jpg
 title: Summer Fun Leader
-permalink: projects/SummerFunLeader
+permalink: projects/summerfunleader
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
