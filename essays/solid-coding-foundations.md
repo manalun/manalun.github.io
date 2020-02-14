@@ -1,26 +1,24 @@
 ---
 layout: essay
 type: essay
-title: Can questions be smart?
+title: Solid coding foundations
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-30
+date: 2020-02-14
 labels:
   - Software Engineering
-  - Smart Questions
+  - Coding standards
   - ICS 314
 ---
 
-<img class="ui centered big rounded image" src="../images/smart-questions.png">
+<img class="ui centered big rounded image" src="../images/coding-standards.jpg">
 
-## Smart Questions
-When I initially heard about learning how to ask "smart" questions, I thought that it was referring to the saying that there are no dumb questions. What I realized is that in the open-source community though, there are indeed dumb and smart questions! I never knew about the many parts that come together to create smart questions. Eric Raymond in [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html) taught me the things I should do before asking, and the important aspects that a smart question has. I think that it is really important for all software engineers to know what a smart and dumb question is, and in particular, how to create smart questions and making it a habit.
+## Coding standards
+Learning a programming language takes a lot of dedication and effort. If you don't learn a programming language without a solid coding standard, I believe that you will have a really hard time grasping everything you need in order to be fluent in that language. That is why I sincerely believe that some coding standards do actually help you to learn a programming language because some things will get a lot clearer in terms of its functionality when you implement coding standards. For example, when someone doesn't indent loops and lines of code, it might be hard to understand what is exactly going to happen since the code is bunched up. In Javascript, using `let` or `const` instead of `var` will help you understand the basics of creating a variable in Javascript, and also help keep your code less prone to errors.
 
-<img class="ui small right rounded floated image" src="../images/not-smart-q.jpg">
+<img class="ui medium right rounded floated image" src="../images/eslint.png">
 
-## A Not-So-Smart Question from a Loser
-One of the things that Raymond characterizes as a loser, that is asking a not-so-smart question, is that they haven't prepared, researched, or thought very extensively about their problem. An example of a not-so-smart question from stack overflow can be found [here](https://stackoverflow.com/questions/60000660/textoverflow-ellipsis-in-widget-text-not-work), where the person shows all of the code and only states that they got a specific error. To me, this counts as a not so thoughtful question because it begins with a code block about 30 lines long. It also does not state a lot of information about the code and what the person did to try to solve the problem. For example, the person did not state things that he/she researched to try to find the solution, and the person simply does not give enough background about the code. It may be a little good that they stated some kind of error, but nothing else.
+## Learning to maximize ESLint
+There are many tools for analyzing code standards available to people, and I think that ESLint is one example of a very useful code checking utility. I have to say that coming into learning how to use ESLint with IntelliJ in ICS 314 has been very similar to the process of learning how to use another integrated development environment called Eclipse. In my ICS 211 class, I had to learn how to use JUnit tests cases with Eclipse, and I think it is very similar to what we are doing now with learning how to use ESLint with IntelliJ. I find everytime, that getting the green checkmark at the top right is just absolutely satisfying. It is really just a way for me to know that I properly followed the coding standards set in ESLint, which makes me happy because I think every software engineer should have a solid coding standard. You can help yourself with keeping your code clean and precise, but it also helps others read and understand your code too, which I think is very important for my future in the software engineering department.
 
-<img class="ui small right rounded floated image" src="../images/smart-question2.jpg">
-
-## A Smart Question from a Winner
-Reading an example of a smart question from a software engineer on stack overflow shows me the differences between smart question and not-so-smart questions just by the clarity, and the quality of answers it provides. [This](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) question on stack overflow asks about why a sorted array processes faster than an unsorted array. The person makes his/her question clear, shows their code, and breaks down the steps they took before reaching the question that they have. You can tell that this is a smart question because they specify specific questions at the end of their post using bullet points, it provides detail about what the person is thinking in terms of the question itself, and shows that the person cares about the idea behind the question, and that they are capable of learning from the answers that this question provides.
+## The importance of coding standards
+I think that coding standards are very useful since it helps me understand my code better, and it helps me read other's code since they might also follow the same standards. When you compare how fast you can intake information when reading code, I think it is guaranteed that you will be able to process code faster when coding standards are met than when they are not. I believe it is important and useful to have these coding standards so that we can all improve our efficiency.
