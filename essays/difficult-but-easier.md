@@ -11,10 +11,10 @@ labels:
   - ICS 314
 --- 
 
-<img class="ui centered medium rounded image" src="../images/semantic-ui.png">
+<img class="ui centered big rounded image" src="../images/semantic-ui.png">
 
 ## What are these frameworks?
-UI frameworks are useful when you want to write compact code that is easier to write and read. The one drawback to using a UI framwork is that you have to learn how to use it first! This was evident when I was first learning how to use Semantic UI on an online learning website called [pluralsite](https://app.pluralsight.com/library/). 
+UI frameworks are useful when you want to write compact code that is easier to write and read. The one drawback to using a UI framwork is that you have to learn how to use it first! This was evident when I was first learning how to use Semantic UI on an online learning website called [pluralsite](https://app.pluralsight.com/library/). For me it was just like learning a new programming language because of the new coding syntaxes I needed to learn. For example, we still used `div`s but the classes we use might include code such as `ui`, `container`, or `menu`. I could definitely see why it is recommended that software engineers use UI framworks because compared to how long it might take to build a code from scratch, you can simply use the framwork in order to quickly recreate what you need, or want to create.
 
 <img class="ui small right rounded floated image" src="../images/not-smart-q.jpg">
 
