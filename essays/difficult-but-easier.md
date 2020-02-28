@@ -3,10 +3,11 @@ layout: essay
 type: essay
 title: Difficult but easier?
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-30
+date: 2020-02-27
 labels:
   - Software Engineering
-  - Smart Questions
+  - UI Frameworks
+  - Semantic UI
   - ICS 314
 ---
 
