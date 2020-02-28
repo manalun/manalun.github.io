@@ -18,8 +18,8 @@ UI frameworks are useful when you want to write compact code that is easier to w
 
 <img class="ui small right rounded floated image" src="../images/not-smart-q.jpg">
 
-## A Not-So-Smart Question from a Loser
-
+## What it's like learning a UI framework
+For me, learning new code is the same process as learning anything else in life: read, watch, and practice. For some reason though, Semantic UI has been quite hard to learn because it is hard for me to memorize the new coding syntax with their specific functionalities; for example knowing to use a `ui action input` class to create an input box that will perform an action or using a `ui two column grid` class in order to create a grid section that will have two columns each row.
 
 <img class="ui small right rounded floated image" src="../images/smart-question2.jpg">
 
