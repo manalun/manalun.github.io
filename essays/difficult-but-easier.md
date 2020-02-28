@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Can questions be smart?
+title: Difficult but easier?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
