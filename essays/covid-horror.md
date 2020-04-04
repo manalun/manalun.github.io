@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Covid Horror
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-04-04
 labels:
   - COVID-19
   - Learning
@@ -20,7 +20,7 @@ In the past I have taken one online course from Leeward Community College, and i
 <img class="ui centered big rounded image" src="../images/fibonacci.png">
 
 ## Moving forward
-Moving forward from this coronavirus pandemic, I think I need to make a lot of changes to my values, lifestyle, and goals. I think that before this coronavirus pandemic, I never really cared much about the how the family is doing since we all mostly went about our daily routines without thought. Now that Covid is a thing and the cases in Hawaii are growing rapidly, I worry for my family members that go to work out in public since they can be exposed to the virus.
+Moving forward from this coronavirus pandemic, I think I need to make a lot of changes to my values, lifestyle, and goals. I think that before this coronavirus pandemic, I never really cared much about the how the family is doing since we all mostly went about our daily routines without thought. Now that Covid is a thing and the cases in Hawaii are growing rapidly, I worry for my family members that go to work out in public since they can be exposed to the virus.<br>
 I used to think that going to classes and learning was something that I had to do, and in particular was forced to do. Now that all of my classes are online, I now realize that my classes are there only to teach, and it is up to me to take what I get to learn and push myself to grow. Without the motivation to do anything myself, I will never get anywhere, and that has become apparent to me during these times.
 
 
