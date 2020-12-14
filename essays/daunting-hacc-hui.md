@@ -8,7 +8,7 @@ labels:
   - Software Engineering II
   - Meteor application
   - Slackbot
-  - Group Management
+  - Team project
   - ICS 414
 --- 
 
