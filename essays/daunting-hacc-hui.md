@@ -21,9 +21,9 @@ labels:
 
 ## Creating HACC-Hui
 In the process of creating our HACC-Hui, I was placed in a team of four with three other developers: our team name being [MIJJ](https://github.com/MIJJ-HACC/HACC-Hui), representing each of our first name initials. The project was broken into 3 main milestones, 2 of which were worked on with the group and the final milestone with the entire class. In milestone 1, I created a delete function for users that allows them to delete their HACC-Hui account. For HACC-Hui, it was not simply creating a button that asks if they want to delete their account and deleting it if they answer yes. I had to make sure that when a participant decides to delete their account, we redirect them to a page that records why they are leaving (in order to improve the HACC experience for the next year) and storing that data in a collection. In addition to allowing participants to delete their accounts, I helped create the team creation page. This was done using a schema made specifically for this page in order to create a team in the database, along with the related collections. Uniforms makes the fields for the team creator, which includes the team name, availability, description, and more. I helped with creating the submit function which takes the submitted data and creates a team with it.
-<div class="ui medium images">
-  <img class="centered" src="../images/essay ss1.png">
-  <img class="centered" src="../images/essay ss2.png">
+<div class="ui segment">
+  <img class="ui centered medium images" src="../images/essay ss1.png">
+  <img class="ui centered medium images" src="../images/essay ss2.png">
 </div>
 
 For milestone 2 I was assigned to creating the update team page. This page allows team owners to update their team if they would like to. To create this page, I used uniforms in order to create fields that are prefilled with data of the team before changes. When the team owner changes a field, that is updated in the database when submitted. Because of the fact that users can create multiple teams if they would like to, I had to make the Update Teams button on the NavBar a dropdown menu that displays the teams this user owns, which allows them to choose which team they would like to update.
