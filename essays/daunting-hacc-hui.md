@@ -28,11 +28,11 @@ In the process of creating our HACC-Hui, I was placed in a team of four with thr
 
 For milestone 2 I was assigned to creating the update team page. This page allows team owners to update their team if they would like to. To create this page, I used uniforms in order to create fields that are prefilled with data of the team before changes. When the team owner changes a field, that is updated in the database when submitted. Because of the fact that users can create multiple teams if they would like to, I had to make the Update Teams button on the NavBar a dropdown menu that displays the teams this user owns, which allows them to choose which team they would like to update.
 <img class="ui large centered image" src="../images/essay ss3.png">
-\newline
 
 <img class="ui medium right rounded floated image" src="../images/essay ss4.png">
-<img class="ui medium right rounded floated image" src="../images/essay ss5.png">
 For the last milestone, the students in the 414 class worked together to finish up the HACC-Hui project. What I worked on in this final push was first adding a view invitations page that is specific for the admins in which they are able to see all invitations sent out to participants of HACC. This was done by taking the team invitations collection and displaying each invitation made through a list. Another issue I took on was to make sure when a participant deletes their account, I clean up the team memberships. Because of how the collection class hierarchy works for HACC-Hui, I had to delete team memberships for a participant through different collections in the database. I also made it so that if a participant is an owner of a team and they decide to delete their account, ownership is transferred to another team member of that team, or if there is not anyone else on the team left, the team is deleted. Other simple issues I worked on was to not allow duplicate team members for teams and to update the view teams page to show GitHub repo and Devpost links.
+<img class="ui medium left rounded floated image" src="../images/essay ss5.png">
+<br />
 
 <img class="ui small left circular floated image" src="../images/essay ss8.png">
 ## Working with team MIJJ
