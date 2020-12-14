@@ -12,7 +12,7 @@ labels:
   - ICS 414
 --- 
 
-<img class="ui centered medium rounded image" src="../images/essay ss7.png">
+<img class="ui centered big rounded image" src="../images/essay ss7.png">
 
 ## What is HACC-Hui?
   [HACC-Hui](https://hacc.hawaii.gov/) is an easy-to-use system that provides simpler team formation processes for participants of the Hawaii Annual Code Challenge. In the past, the team formation process at HACC has been ad-hoc and informal, which leads to high failure rates for good team formations. HACC-Hui is capable of creating teams and customizing a lot of options such as making a team “open” or “closed,” specify skills, tools, and challenges, and more. HACC-Hui also provides users with a personal profile, which displays details about one’s skills, tools, and challenge interests, and demographic level. It can also indicate if the person is searching for a team or not. These HACC-Hui features help users easily create their desired teams and find team members without effort.
