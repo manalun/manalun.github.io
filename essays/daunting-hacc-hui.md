@@ -35,7 +35,7 @@ For the last milestone, the students in the 414 class worked together to finish 
   <img src="../images/essay ss5.png">
 </div>
 
-<img class="ui small right circular floated image" src="../images/essay ss8.png">
+<img class="ui small centered circular floated image" src="../images/essay ss8.png">
 ## Working with team MIJJ
 My team, team MIJJ, consisted of developers Joshua Hartmann, Isaac Lee, Joel Sikkink, and myself. The team process consisted of using GitHub to organize milestones and issue assignments. Most milestones consisted of at least four issues, which helped distribute work evenly among everyone. Every milestone, we posted issues through GitHub and team members chose what issue they wanted to tackle. Whenever a team member wanted to discuss issues they had on the project, or if they wanted help with their particular issue, they would message the other team members through discord. Most of the time, things were resolved through the text channels, but other times voice channels were used too. 
 
