@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "game development",
+      "name": "Esports",
       "keywords": [
       ]
     }
@@ -46,26 +46,31 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Prolog"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/GitHub"
+        "Git/GitHub",
+        "Android Studio",
+        "Gephi",
+        "RStudio"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-08-12",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.91",
       "courses": [
       ]
     }
@@ -79,7 +84,7 @@
       "endDate": "Present",
       "summary": "Serve take-away orders for Outback Steakhouse.",
       "highlights": [
-        "Multitask with taking orders, packing food and getting payment",
+        "Multitask with taking orders, packing food and getting payment"
       ]
     },
     {
@@ -91,7 +96,8 @@
       "summary": "Make sushi for customers and operate the cash register.",
       "highlights": [
         "Making sushi",
-        "Maintain a clean working environment"      ]
+        "Maintain a clean working environment"
+      ]
     },
     {
       "company": "City and County of Honolulu",
@@ -102,7 +108,8 @@
       "summary": "Supervise and entertain 20+ kids for 6 hours.",
       "highlights": [
         "Figuring out activities that the kids would have fun with",
-        "Working with coworkers to make the kids' summer awesome"      ]
+        "Working with coworkers to make the kids' summer awesome"
+      ]
     }
   ],
   "volunteer": [
@@ -117,9 +124,29 @@
         "Learn to complete tasks efficiently when assigned",
         "Cooperate with other junior leaders to help ease the work load for the leader"
       ]
+    },
+    {
+      "organization": "Overwatch League (OWLxUH)",
+      "website": "https://overwatchleague.com/en-us/2021-playoffs",
+      "position": "Overwatch League Intern",
+      "startDate": "2021-06-05",
+      "endDate": "2021-08-20",
+      "summary": "Help support the Overwatch League staff with their operations",
+      "highlights": [
+        "Experience what it is like behind the scenes of a tier 1 Esports tournament",
+        "Learn about the job of the Overwatch League staff directly from the staffs working",
+        "Meet the Overwatch League professional players",
+        "Shadow over the work of Overwatch League's IT crew before, during, and after the tournament"
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "Academic Excellence in Math",
+      "date": "2013",
+      "awarder": "Niu Valley Middle School",
+      "summary": "Award given from nomination by a teacher for showing excellence in the subject of math."
+    },
     {
       "title": "Mānoa Academic Merit Scholarship",
       "date": "2018-Present",
@@ -127,10 +154,16 @@
       "summary": "This scholarship is for first-time, degree-seeking students who enroll the semester after high school graduation. The student must be enrolled in a full-time course load of UH Mānoa credits."
     },
     {
-      "title": "Academic Excellence in Math",
-      "date": "2013",
-      "awarder": "Niu Valley Middle School",
-      "summary": "Award given from nomination by a teacher for showing excellence in the subject of math."
+      "title": "CSL Valorant Fall Brawl Champion",
+      "date": "2021-10-10",
+      "awarder": "NACE Starleague",
+      "summary": "$2,500 prize given to team for winning first place in the NACE Starleague Collegiate Valorant Fall Brawl tournament."
+    },
+    {
+      "title": "Collegiate Esports Invitational 2021 Valorant Champion",
+      "date": "2021-11-21",
+      "awarder": "Collegiate Esports Invitational",
+      "summary": "$5,000 prize given to team for winning first place in the Collegiate Esports Invitational 2021 Valorant tournament."
     }
   ],
   "references": [
