@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Manalu Nakanishi",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://manalun.github.io/images/selfie-300px.jpg",
-    "email": "manalun@hawaii.edu",
+    "email": "nakanishimanalu@ymail.com",
     "phone": "808-202-8627",
     "website": "https://manalun.github.io",
-    "summary": "I am a student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am a graduate of the University of Hawaii with a B.S. in Computer Science.",
     "location": {
       "address": "1293 Honokahua St",
       "postalCode": "96825",
@@ -66,11 +66,11 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-12",
-      "endDate": "Present",
-      "gpa": "3.91",
+      "endDate": "2022-05-14",
+      "gpa": "3.90",
       "courses": [
       ]
     }
