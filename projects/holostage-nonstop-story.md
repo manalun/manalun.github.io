@@ -12,7 +12,7 @@ labels:
 - C#
 - Unity
 - Game
-  summary: An ICS 486 virtual reality project using Unity made in collaboration with Len Nguyen and Derek Agbayani.
+summary: An ICS 486 virtual reality project using Unity made in collaboration with Len Nguyen and Derek Agbayani.
 ---
 
 <img class="ui centered medium image" src="/images/holostage-startscreen.jpg">
