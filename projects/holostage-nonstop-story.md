@@ -5,27 +5,27 @@ image: images/holostage-startscreen.jpg
 title: Holostage Nonstop Story
 permalink: projects/holostage-VR
 # All dates must be YYYY-MM-DD format!
-date: 2021-0-23
+date: 2022-07-21
 labels:
-- ICS 111
+- ICS 486
 - Teamwork
-- Animation
-- Java
-- Minigame
-  summary: An ICS 111 Final project made in collaboration with my partner, Jake Imanaka.
+- C#
+- Unity
+- Game
+  summary: An ICS 486 virtual reality project using Unity made in collaboration with Len Nguyen and Derek Agbayani.
 ---
 
-<img class="ui centered medium image" src="/images/bomberman-ingame.png">
+<img class="ui centered medium image" src="/images/holostage-startscreen.jpg">
 
-This project was about showcasing our ability to utilize the EZ library and basic java coding to create a more advanced game than the previous projects we've created. For our project, my partner Jake and I decided to try to make a copy of the game *Bomberman* since Bomberman is one of my favorite games to play. We decided that it was possible to create at least some kind of game that represents a Bomberman game.
+Holostage - Nonstop Story was one of the first main projects we had to do for this ICS 486 class. For this project, we had to use unity in order to create a virtual reality application that is playable using the Oculus Quest. One of my group members and I were in charge of working on the functionality and coding, while one student in our group was responsible for creating the models and animations.
 
-<img class="ui medium right floated rounded image" src="../images/bomberman-sprite-sheet.png">
+<img class="ui medium left floated rounded image" src="../images/holostage-ingame.png">
 
-In this project of ours, my role was taking care of the sprite sheet and making sure that the code for utilizing the sprite sheet is functional. I would say that creating the animations was quite a large part of the project, but Jake did create the base game functionality with the breaking of the blocks, placing bombs, and explosions. It was difficult creating the sprite sheet for this project and using it because I had issues aligning the sprite sheet and the game. For example, when the user moves right, I have to focus on one spot of the sprite sheet, but that's hard to do if not everything is scaled properly since some animations might have parts of another animation, which would cause issues.
+In this project, I was in charge of implementing the score tracker for the game, along with creating a complimentary streak and combo tracker. In addition to the score tracking, I implemented a scoring system that gives the player a letter grade based on their final score. The final score screen is displayed when the song is finished, and this screen includes buttons for redirecting the player to retry, go to the main menu, or quit.
 
-Working with Jake, I learned a lot more about the EZ library and how to utilize its functions. I also learned a lot myself about how sprite sheets work and I realized that it is not easy to do in a short amount of time. I also learned that it is possible to create makeshift games in a short amount of time if you dedicate yourself to programming it. I started to realize how important it is to have at least one more person working on the same code that you are because they can help point out issues that you might have in your code, and working with another person might help you accomplish greater tasks. I think that this is very important in real-life situations because most of the time if I am coding for a large company, I will most likely be working with other programmers and we can work together to finish advanced jobs.
+This was the first time I ever created a project through unity and I had to learn more about C# as I coded for the game. This game was fun to create because I enjoyed being able to recreate something that is similar to osu and beat saber but in VR. The toughest problems throughout the project were with hit registration and making sure that when the player gets the point if their light beam is inside the circle at the correct times. We were able to somewhat figure it out by increasing the window of time for the beam and the circle to register a hit. 
 
 **Demo video of code for the project:**
-<div class="ui embed" data-source="youtube" data-id="Az70m4X7Eu8" >
+<div class="ui embed" data-source="youtube" data-id="zfbMuxeqp8E" >
 </div>
 
