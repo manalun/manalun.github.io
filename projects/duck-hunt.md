@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/duckhunt-menu-preview.png
+image: images/duckhunt-preview.png
 title: Duck Hunt
 permalink: projects/duck-hunt
 # All dates must be YYYY-MM-DD format!
@@ -16,7 +16,7 @@ labels:
 summary: An ICS 486 augmented reality project using Unity, made in collaboration with Len Nguyen and Derek Agbayani. 
 ---
 
-<img class="ui right medium image" src="/images/duckhunt-menu.png">
+<img class="ui right floated medium image" src="/images/duckhunt-menu.png">
 
 Duck Hunt AR is an augmented reality game that takes inspiration from the NES game Duck Hunt. For this project, we used unity to code the game and implemented vuforia for the AR functionalities. The core of the game is to utilize image targets, which could be something like a gift card, and displaying things on the phone screen. By controlling the gun attached to the card, you can shoot the ducks and UFOs that are flying around on the screen. Successfully shooting down ducks and UFOs grants the player points and the goal is to get as many points as possible within the time limit.
 
