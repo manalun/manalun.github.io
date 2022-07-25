@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/duckhunt-menu.png
+image: images/duckhunt-menu-preview.png
 title: Duck Hunt
 permalink: projects/duck-hunt
 # All dates must be YYYY-MM-DD format!
