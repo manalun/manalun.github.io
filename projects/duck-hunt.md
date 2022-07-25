@@ -27,7 +27,7 @@ For this game, I was mostly in charge of the spawns and making sure that the mov
 In this augmented reality project, we faced a lot of issues such as trying to keep the play area static, relative to the environment. My group was also new to vuforia development, so it was difficult for the transition gameplay from an emulator in unity to an actual mobile device. I think that I learned more about scripts and coding in unity. It was interesting learning about how image targets work for augmented reality and I would like to attempt another project involving augmented reality.
 
 **Demo video of code for the project:**
-<div class="ui embed" data-source="youtube" data-id="AqOh0BBcSs" >
+<div class="ui embed" data-source="youtube" data-id="-AqOh0BBcSs" >
 </div>
 
 
