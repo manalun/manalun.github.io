@@ -15,7 +15,7 @@ labels:
 summary: An ICS 111 Final project made in collaboration with my partner, Jake Imanaka. 
 ---
 
-<img class="ui centered medium image" src="/images/bomberman-ingame.png">
+<img class="ui centered medium image" src="../images/bomberman-ingame.png">
 
 This project was about showcasing our ability to utilize the EZ library and basic java coding to create a more advanced game than the previous projects we've created. For our project, my partner Jake and I decided to try to make a copy of the game *Bomberman* since Bomberman is one of my favorite games to play. We decided that it was possible to create at least some kind of game that represents a Bomberman game.
 

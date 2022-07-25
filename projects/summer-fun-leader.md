@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/summer-fun-pic.jpg
 title: Summer Fun Leader
-permalink: projects/summerfunleader
+permalink: projects/summer-fun-leader
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: My coworkers and I had to supervise and entertain children aged 5-11 for a summer recreational program.
 ---
 
-<img class="ui small left floated image" src="/images/summer-fun-activities.jpg">
+<img class="ui small left floated image" src="../images/summer-fun-activities.jpg">
 
 <img class="ui medium right floated rounded image" src="../images/summer-fun-schedule.jpg">
 

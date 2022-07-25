@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/holostage-startscreen.jpg
 title: Holostage Nonstop Story
-permalink: projects/holostage-VR
+permalink: projects/holostage-vr
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-21
 labels:
@@ -15,7 +15,7 @@ labels:
 summary: An ICS 486 virtual reality project using Unity, made in collaboration with Len Nguyen and Derek Agbayani.
 ---
 
-<img class="ui centered medium image" src="/images/holostage-startscreen.jpg">
+<img class="ui centered medium image" src="../images/holostage-startscreen.jpg">
 
 Holostage - Nonstop Story was one of the first main projects we had to do for this ICS 486 class. For this project, we had to use unity in order to create a virtual reality application that is playable using the Oculus Quest. One of my group members and I were in charge of working on the functionality and coding, while one student in our group was responsible for creating the models and animations.
 

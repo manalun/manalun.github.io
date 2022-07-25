@@ -15,7 +15,7 @@ labels:
 summary: An ICS 314 Final project made in collaboration with my group, Shinya Saito, Jake Imanaka, and Weihang Mai. 
 ---
 
-<img class="ui centered large image" src="/images/listingPage.png">
+<img class="ui centered large image" src="../images/listingPage.png">
 
 This project was about showcasing our ability to utilize web development tools to create a web application made with a user interface so that people can interact with our website. For our project, my group and I decided to make a meteor application which allows for UH students with a market of used textbooks. They will be able to sell and purchase textbooks from other users.
 
