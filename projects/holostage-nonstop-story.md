@@ -7,11 +7,11 @@ permalink: projects/holostage-vr
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-21
 labels:
-- ICS 486
-- Teamwork
-- C#
-- Unity
-- Virtual Reality
+  - ICS 486
+  - Teamwork
+  - C#
+  - Unity
+  - Virtual Reality
 summary: An ICS 486 virtual reality project using Unity, made in collaboration with Len Nguyen and Derek Agbayani.
 ---
 
