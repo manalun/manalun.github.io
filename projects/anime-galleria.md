@@ -23,7 +23,7 @@ Anime Galleria is a gallery of anime and game related figures that are displayed
 <img class="ui small left floated rounded image" src="../images/anime-galleria-display.png">
 
 Throughout this project, I was responsible with most of the designing aspect of the application and creating prefabs for the models being displayed. Much of the issues we faced with this project was with the creation of the models using photogrammetry.  We had problems with the models not forming properly, which was most likely due to bad lighting and smooth surfaces. Some figures that were originally planned to be used as a photogrammetry model were not possible to be done, so we decided to have Derek create models for us.
-<br>
+<br><br><br><br><br>
 
 **Demo video of code for the project:**
 <div class="ui embed" data-source="youtube" data-id="0of-_BPwvTA" >
