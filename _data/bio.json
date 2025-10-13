@@ -8,11 +8,9 @@
     "website": "https://manalun.github.io",
     "summary": "I am a graduate of the University of Hawaii with a B.S. in Computer Science.",
     "location": {
-      "address": "1293 Honokahua St",
-      "postalCode": "96825",
-      "city": "Honolulu",
+      "city": "Milpitas",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
@@ -45,13 +43,8 @@
       "level": "",
       "keywords": [
         "C#",
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Common LISP",
-        "Prolog",
-        "R"
+        "Python",
       ]
     },
     {
@@ -60,10 +53,7 @@
       "keywords": [
         "Windows 10",
         "Git/GitHub",
-        "Android Studio",
-        "Gephi",
-        "RStudio",
-        "Unix"
+        "Azure",
       ]
     },
     {
@@ -72,7 +62,6 @@
       "keywords": [
         "Unity",
         "Visual Studio",
-        "Node.js",
         "IntelliJ"
       ]
     }
@@ -91,72 +80,18 @@
   ],
   "work": [
     {
-      "company": "Outback Steakhouse",
-      "position": "Take-away Server",
-      "website": "https://www.outback.com/locations/hi/hawaii-kai",
-      "startDate": "2018-02-01",
-      "endDate": "Present",
-      "summary": "Serve take-away orders for Outback Steakhouse.",
+      "company": "Decision Research Corporation (Now part of Majesco)",
+      "position": "Software Engineer",
+      "website": "https://www.majesco.com/",
+      "startDate": "2022-10-17",
+      "endDate": "2025-10-06",
+      "summary": "Experience developing and deploying web applications by collaborating in agile style.",
       "highlights": [
-        "Answer the phone and manage customer orders.",
-        "Manage payments, handle complimentary items, and pack take-out orders from customers.",
-        "I also manage complaints to make customers happy with their take-out orders."
+        "Fixing any bugs that are found.",
+        "Create unit tests for code.",
+        "Agile Development."
       ]
     },
-    {
-      "company": "City and County of Honolulu",
-      "position": "Summer Student Aide 2",
-      "website": "http://www.honolulu.gov/parks/program/summer-fun-program.html",
-      "startDate": "2019-05-30",
-      "endDate": "2019-08-03",
-      "summary": "Supervise and entertain 20+ kids during summer break",
-      "highlights": [
-        "Worked as a leader for a group of kids for the summer.",
-        "Managed the group during the weekdays and had to create agendas throughout the week.",
-        "Coordinated with other leaders to manage and lead a summer program."
-      ]
-    },
-    {
-      "company": "Kozo Sushi",
-      "position": "Sushi maker",
-      "website": "",
-      "startDate": "2016-03-01",
-      "endDate": "2017-12-20",
-      "summary": "Make sushi for customers and operate the cash register.",
-      "highlights": [
-        "Made sushi and operated cash register.",
-        "Maintained a clean working environment.",
-        "Closed up the register and the shop."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Overwatch League (OWLxUH)",
-      "website": "https://overwatchleague.com/en-us/2021-playoffs",
-      "position": "Overwatch League Student Intern",
-      "startDate": "2021-06-05",
-      "endDate": "2021-08-20",
-      "summary": "Help support the Overwatch League staff with their operations",
-      "highlights": [
-        "Experience what it is like behind the scenes of a tier 1 Esports tournament.",
-        "Helped the Overwatch League Staff with their league operations and setting-up and breaking down the play areas.",
-        "Shadowed over the Overwatch League Staff as they organized the play area and managed software/hardware problems.",
-        "Learned directly from the Overwatch League IT staff about some of the software and hardware set-up required Overwatch tournaments."
-      ]
-    },
-    {
-      "organization": "City and County of Honolulu",
-      "website": "http://www.honolulu.gov/parks/program/summer-fun-program.html",
-      "position": "Junior Leader",
-      "startDate": "2016-06-01",
-      "endDate": "2018-07-25",
-      "summary": "Assist the Leaders supervise and entertain the group kids.",
-      "highlights": [
-        "Learn to complete tasks efficiently when assigned",
-        "Cooperate with other junior leaders to help ease the work load for the leader"
-      ]
-    }
   ],
   "awards": [
     {
