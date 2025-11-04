@@ -45,14 +45,17 @@
         "C#",
         "Javascript",
         "Python",
+        "SQL",
+        "CSHTML",
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10",
-        "Git/GitHub",
+        "Windows 11",
+        "GitHub",
         "Azure",
       ]
     },
@@ -87,9 +90,9 @@
       "endDate": "2025-10-06",
       "summary": "Experience developing and deploying web applications by collaborating in agile style.",
       "highlights": [
-        "Fixing any bugs that are found.",
-        "Create unit tests for code.",
-        "Agile Development."
+        "Designed, developed, and maintained insurance software solutions on Majesco’s core platforms.",
+        "Collaborated with cross-functional teams to design scalable architectures and implement business-critical features.",
+        "Participated in code reviews, testing, and deployment processes to ensure high-quality delivery."
       ]
     },
   ],
